@@ -8,7 +8,7 @@ The question id is passed as an optional parameter.
 
 ## Example #1: Editor + Console + Preview
 
-<iframe width="800" height="700" src="https://linda-seiter.github.io/prework-sandpack-app/"></iframe>
+<iframe height="700" src="https://linda-seiter.github.io/prework-sandpack-app/"></iframe>
 
 ## Example #2: Editor + Console
 
