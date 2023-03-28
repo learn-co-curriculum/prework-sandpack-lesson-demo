@@ -1,32 +1,23 @@
 # Sandpack Lesson Demo
 
-## Learning Goals
-
-- Learning Goal 1
-- Learning Goal 2
-
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.
+Each example uses an iframe to embed a request to
+[https://linda-seiter.github.io/prework-sandpack-app/](https://linda-seiter.github.io/prework-sandpack-app/).
+The question id is passed as an optional parameter.
 
-## Topic 1
+## Example #1: Editor + Console + Preview
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+<iframe width="800" height="700" src="https://linda-seiter.github.io/prework-sandpack-app/"></iframe>
 
-## Topic 2
+## Example #2: Editor + Console
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
+<iframe width="800" height="700" src="https://linda-seiter.github.io/prework-sandpack-app?id=2"></iframe>
 
-## Conclusion
+## Example #3: Editor + Test
 
-A short one or two paragraph summary of the contents of the lessons, recapping
-the learning goals.
+<iframe width="800" height="700" src="https://linda-seiter.github.io/prework-sandpack-app?id=3"></iframe>
 
-## Resources
+## Example #4 Editor + Test + Console (logging test fails)
 
-- [Resource Link 1](example.com)
-- [Resource Link 2](example.com)
+<iframe width="800" height="700" src="https://linda-seiter.github.io/prework-sandpack-app?id=4"></iframe>
