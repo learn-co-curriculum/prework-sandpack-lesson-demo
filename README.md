@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Each example uses an iframe to embed a request to a github pages site
+Each example uses an iframe to embed a request to
 [https://linda-seiter.github.io/prework-sandpack-app/](https://linda-seiter.github.io/prework-sandpack-app/).
 The question id is passed as an optional parameter.
 
