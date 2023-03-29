@@ -1,9 +1,10 @@
-# Sandpack Lesson Demo
+# Sandpack Demo
 
 ## Introduction
 
 Each example uses an iframe to embed a request to
 [https://linda-seiter.github.io/prework-sandpack-app/](https://linda-seiter.github.io/prework-sandpack-app/).
+
 The question id is passed as an optional parameter.
 
 ## Example #1: Editor + Console + Preview
@@ -18,11 +19,11 @@ The question id is passed as an optional parameter.
 
 <iframe width="800" height="700" src="https://linda-seiter.github.io/prework-sandpack-app?id=3"></iframe>
 
-## Example #4 Editor + Test + Console (logging test fails)
+## Example #4 Editor + Test + Console
 
 <iframe width="800" height="700" src="https://linda-seiter.github.io/prework-sandpack-app?id=4"></iframe>
 
 ## Resources
 
-[Sandpack](https://sandpack.codesandbox.io/)
-[CodeMirror](https://codemirror.net/)
+- [Sandpack](https://sandpack.codesandbox.io/)
+- [CodeMirror](https://codemirror.net/)
